@@ -29,12 +29,12 @@ a must-know approach for optimizing array, subarray, and sorting-based problems.
 
 ## 📈 Progress Overview
 
-| Level | Focus | Completion |
-|--------|--------|-------------|
-| 🟢 Level 1 | Basic Understanding (Array & Swapping Logic) | ![Progress](https://progress-bar.dev/95/?title=Completed&width=200&color=00C853) |
-| 🟡 Level 2 | Intermediate (Sorting, Pattern Recognition) | ![Progress](https://progress-bar.dev/75/?title=In+Progress&width=200&color=FFD600) |
-| 🔴 Level 3 | Advanced Applications (Triplets, Optimization) | ![Progress](https://progress-bar.dev/55/?title=Active+Learning&width=200&color=FF3D00) |
-| 💥 Level 4 | Master Level (Two Pointer + DP Hybrid) | ![Progress](https://progress-bar.dev/40/?title=Upcoming&width=200&color=6200EA) |
+| Level | Focus | Progress |
+|-------|--------|----------|
+| 🟢 Level 1 | Basic Understanding (Array & Swapping Logic) | ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge) |
+| 🟡 Level 2 | Intermediate (Sorting, Pattern Recognition) | ![75%](https://img.shields.io/badge/Progress-75%25-yellow?style=for-the-badge) |
+| 🔴 Level 3 | Advanced Applications (Triplets, Optimization) | ![55%](https://img.shields.io/badge/Progress-55%25-orange?style=for-the-badge) |
+| 💥 Level 4 | Master Level (Two Pointer + DP Hybrid) | ![40%](https://img.shields.io/badge/Progress-40%25-blueviolet?style=for-the-badge) |
 
 ---
 
