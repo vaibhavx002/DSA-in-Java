@@ -1,7 +1,3 @@
-<!-- 🧠 CUSTOM BANNER -->
-<p align="center">
-  <img src="TwoPointers/banner.png" width="100%" alt="Vaibhav Yadav - DSA in Java | Two Pointer Mastery">
-</p>
 
 <!-- 🧠 Animated Typing Title -->
 <p align="center">
