@@ -1,6 +1,6 @@
 <!-- 🧠 CUSTOM BANNER -->
 <p align="center">
-  <img src="https://github.com/vaibhavx002/vaibhavx002/TwoPointers/banner.png" width="100%" alt="Vaibhav Yadav - DSA in Java | Two Pointer Mastery">
+  <img src="TwoPointers/banner.png" width="100%" alt="Vaibhav Yadav - DSA in Java | Two Pointer Mastery">
 </p>
 
 <!-- 🧠 Animated Typing Title -->
