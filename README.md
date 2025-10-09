@@ -1,13 +1,18 @@
-
-
-<!-- 🔥 Title -->
-<h1 align="center">
-  <b>🚀 DSA IN JAVA — BUILDING MASTERY THROUGH PATTERNS</b>
-</h1>
-
+<!-- Typing Animation -->
 <p align="center">
-  <i>“Not just solving problems — mastering the patterns that power them.”</i><br>
-  <b>Crafted with 💻 Java, 💡 Logic, and ❤️ Consistency</b>
+  <a href="https://github.com/vaibhavx002">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=DSA+IN+JAVA+-+BULIDING+MASTERY+THROUGH+PATTERNS" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vaibhavx002">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1400&color=00C2CB&center=true&vCenter=true&width=900&lines=Not+just+solving+problems+-+mastering+the+patterns+that+power+them" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vaibhavx002">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1500&color=00C2CB&center=true&vCenter=true&width=900&lines=Crafted+with+Java,+Logic,+and+Consistency" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
