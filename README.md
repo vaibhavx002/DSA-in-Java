@@ -1,6 +1,6 @@
 <!-- 🧠 Local Typing Animation -->
 <p align="center">
-  <img src="/assets/typing.svg" alt="Typing animation" width="800" />
+  <img src="assets/typing.svg" alt="Typing Animation" width="800" />
 </p>
 
 <h1 align="center">
@@ -13,9 +13,6 @@
 </p>
 
 ---
-
-
-
 
 <p align="center">
   <b>💡 A structured, pattern-based roadmap to master Data Structures & Algorithms in Java.</b><br>
