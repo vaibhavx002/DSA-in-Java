@@ -1,18 +1,18 @@
-<!-- Typing Animation -->
+<!-- 🎬 Animated Typing Header -->
 <p align="center">
-  <a href="https://github.com/vaibhavx002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=DSA+IN+JAVA+-+BULIDING+MASTERY+THROUGH+PATTERNS" alt="Typing SVG" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0C2&center=true&vCenter=true&width=1000&lines=🚀+DSA+in+Java+—+Mastering+Data+Structures+Through+Patterns;💡+Turning+Logic+Into+Reusable+Problem-Solving+Frameworks;🔥+From+Arrays+→+Two+Pointers+→+Sliding+Window+→+Strings+→+DP"
+    alt="DSA in Java Typing Animation"
+  />
 </p>
+
+<h1 align="center">
+  <b>🚀 DSA IN JAVA — MASTERING DATA STRUCTURES THROUGH PATTERNS</b>
+</h1>
+
 <p align="center">
-  <a href="https://github.com/vaibhavx002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1400&color=00C2CB&center=true&vCenter=true&width=900&lines=Not+just+solving+problems+-+mastering+the+patterns+that+power+them" alt="Typing SVG" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vaibhavx002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1500&color=00C2CB&center=true&vCenter=true&width=900&lines=Crafted+with+Java,+Logic,+and+Consistency" alt="Typing SVG" />
-  </a>
+  <i>“Turning logic into patterns, and patterns into mastery.”</i><br>
+  <b>⚙️ Structured • 🧩 Pattern-Oriented • 🎯 Interview-Ready</b>
 </p>
 
 ---
