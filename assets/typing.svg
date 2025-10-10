@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140">
+  <style>
+    text { font-family: 'Fira Code', monospace; font-size: 22px; fill: #00F0C2; }
+    .cursor { animation: blink 0.8s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+  </style>
+
+  <text id="line1" x="20" y="40">🚀 DSA in Java — Building Mastery Through Patterns</text>
+  <text id="line2" x="20" y="80" opacity="0">💡 Not Just Solving Problems, But Mastering Patterns</text>
+  <text id="line3" x="20" y="120" opacity="0">🔥 Crafted with Java, Logic, and Consistency</text>
+
+  <text class="cursor" x="600" y="40">|</text>
+
+  <animate attributeName="opacity" xlink:href="#line2" from="0" to="1" dur="1s" begin="1.5s" fill="freeze" />
+  <animate attributeName="opacity" xlink:href="#line3" from="0" to="1" dur="1s" begin="3s" fill="freeze" />
+</svg>
