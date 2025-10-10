@@ -1,9 +1,6 @@
-<!-- 🎬 Animated Typing Header -->
+<!-- 🧠 Local Typing Animation -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0C2&center=true&vCenter=true&width=1000&lines=🚀+DSA+in+Java+—+Mastering+Data+Structures+Through+Patterns;💡+Turning+Logic+Into+Reusable+Problem-Solving+Frameworks;🔥+From+Arrays+→+Two+Pointers+→+Sliding+Window+→+Strings+→+DP"
-    alt="DSA in Java Typing Animation"
-  />
+  <img src="/assets/typing.svg" alt="Typing animation" width="800" />
 </p>
 
 <h1 align="center">
@@ -16,6 +13,7 @@
 </p>
 
 ---
+
 
 
 
