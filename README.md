@@ -1,7 +1,4 @@
-<!-- 🧠 Local Typing Animation -->
-<p align="center">
-  <img src="assets/typing.svg" alt="Typing Animation" width="800" />
-</p>
+
 
 <h1 align="center">
   <b>🚀 DSA IN JAVA — MASTERING DATA STRUCTURES THROUGH PATTERNS</b>
