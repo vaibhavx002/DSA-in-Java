@@ -31,7 +31,7 @@ At the **Basic Level**, the focus is on:
 
 | # | Problem | Description | Complexity | File Link |
 |:-:|----------|-------------|-------------|------------|
-| 1️⃣ | **Check if the array is a palindrome** | Compare symmetric elements from start and end | O(n) | [`CheckPalindrome.java`](TwoPointers/TwoPointers/Basic/🧠 logic/CheckPalindrome.java) |
+| 1️⃣ | **Check if the array is a palindrome** | Compare symmetric elements from start and end | O(n) | [`CheckPalindrome.java`](./logic/CheckPalindrome.java) |
 | 2️⃣ | **Reverse the array in-place** | Swap elements using two pointers | O(n) | [`ReverseArray.java`](./ReverseArray.java) |
 | 3️⃣ | **Find if a pair with given sum K exists (sorted array)** | Classic pair search using two-pointer sum check | O(n) | [`PairSum.java`](./PairSum.java) |
 | 4️⃣ | **Merge two sorted arrays** | Combine while maintaining sorted order | O(n + m) | [`MergeSortedArrays.java`](../MergeSortedArrays.java) |
