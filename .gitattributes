@@ -1,0 +1,7 @@
+# Force GitHub Linguist to recognize Java as the main language
+*.java linguist-detectable=true
+*.md linguist-documentation=true
+
+# Optional: Exclude assets and docs from language stats
+assets/* linguist-documentation=true
+*.svg linguist-documentation=true
