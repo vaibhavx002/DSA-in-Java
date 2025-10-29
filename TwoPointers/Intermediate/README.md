@@ -32,10 +32,10 @@ Each problem is chosen to teach you how to:
 
 | # | Problem | Description | Complexity | File Link |
 |:-:|----------|-------------|-------------|------------|
-| 1️⃣ | **Remove duplicates from a sorted array (in-place)** | Modify array while keeping unique elements only | O(n) | [`RemoveDuplicates.java`](./logic/RemoveDuplicates.java) |
-| 2️⃣ | **Count number of unique pairs with sum = K** | Use two pointers + frequency map | O(n) | [`CountUniquePairs.java`](./logic/CountUniquePairs.java) |
+| 1️⃣ | **Remove duplicates from a sorted array (in-place)** | Modify array while keeping unique elements only | O(n) | [`RemoveDuplicates.java`](./RemoveDuplicates.java) |
+| 2️⃣ | **Count number of unique pairs with sum = K** | Use two pointers + frequency map | O(n) | [`CountUniquePairs.java`](./CountUniquePairs.java) |
 | 3️⃣ | **Count pairs with absolute difference = K** | Sorted array → move pointers based on difference | O(n) | [`PairsWithDiffK.java`](./logic/PairsWithDiffK.java) |
-| 4️⃣ | **Find all pairs in sorted array with sum = K** | Classic 2-pointer technique for sorted arrays | O(n) | [`AllPairsSum.java`](./logic/AllPairsSum.java) |
+| 4️⃣ | **Find all pairs in sorted array with sum = K** | Classic 2-pointer technique for sorted arrays | O(n) | [`AllPairsSum.java`](./AllPairsSum.java) |
 | 5️⃣ | **Intersection of two sorted arrays** | Merge-style traversal of both arrays | O(n + m) | [`IntersectionSorted.java`](./logic/IntersectionSorted.java) |
 | 6️⃣ | **Sort array of 0s, 1s and 2s (Dutch National Flag)** | Partition array using 3 pointers | O(n) | [`SortColors.java`](./logic/SortColors.java) |
 | 7️⃣ | **Check if array can be partitioned into two equal sums** | Use prefix sums + hash set for fast lookup | O(n) | [`EqualSumPartition.java`](./logic/EqualSumPartition.java) |
