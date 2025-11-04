@@ -12,13 +12,13 @@ public class MaximumSumofSizeK {
         }
         int n = arr.length;
         int maxSum = sum;
-        int sum1 = sum;
+        int windowSum = sum;
         for (int j = k ; j < n ; j++){
-            sum1 = sum1 - arr[j-k] + arr[j];
+            windowSum = windowSum - arr[j-k] + arr[j];
             // Here arr[j-k] is the element which is going to be out of the window .
             // We are subtracting it from the sum .
             // And then we are adding the new element which is coming into the window .
-            maxSum = Math.max(maxSum,sum1);
+            maxSum = Math.max(maxSum,windowSum);
         }
         return maxSum;
     }
